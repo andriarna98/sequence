@@ -5,7 +5,7 @@ b = 2
 print(b)
 c = 3
 print(c)
-for tala in range (n):
+for tala in range (n-3):
     d = a+b+c
     a = b
     b = c
